@@ -9,6 +9,9 @@
 
 # About ME 💬 :
 
+<img hight="320" width="550" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/a49206bbd492cf1707526498f8bf1075.gif">
+
+
 ### - Learning :
 - ✨ Data Science
 - ✨ UI/UX Designer
@@ -19,16 +22,19 @@
 - ✨ Watching Anime
 - ✨ Watching K-Drama
 - ✨ Learning
+<br>
+<br>
 
 # Connect with me:
 <p>
  </br>
 
 
-<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/6040d0113d46ecdfe8b176474f465e03.gif">
+<img hight="920" width="550" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/key.gif">
 
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything,
+be it some doubt or just to hangout
+and talk or want to game together just ping me 😉.
 
 <a href="mailto:rizkofebry@gmail.com">
  <img align="left" alt="Gmail" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/gmail.png" />
@@ -47,6 +53,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br>
 <br>
 <br>
+<br>
+
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
