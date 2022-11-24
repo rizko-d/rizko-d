@@ -45,12 +45,11 @@
 <table align="center">
   <tr>
   <td align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizko-d&layout=compact&theme=tokyonight"/>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rizko-d&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
   </td>
 </tr>
 </table>
 
 <p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rizko-d&theme=rogue"></p><br>
-<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=rizko-d&label=Profile%20views&color=fa1b87&style=flat"> </p>
 
 <img src="https://media3.giphy.com/media/YWB6Hi29vA3jG/giphy.gif?cid=ecf05e478k0lritp1jfe6780t61hwh76dbrhx987m1208cra&rid=giphy.gif&ct=g" alt="one piece" width="980">
