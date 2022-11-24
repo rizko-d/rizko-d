@@ -9,44 +9,38 @@
 
 # About ME 💬 :
 
-- 🔭 I’m currently study at **University 17 Agustus 1945 Surabaya, Indonesia**
+### - Learning :
+- ✨ Data Science
+- ✨ UI/UX Designer
+- ✨ Front-End Developer
 
-- 🌱 I’m currently learning **Data Science, UI/UX designer and Front End Developer**
-
-- 👯 I’m looking to collaborate on **Any Project but i'm still learning**
-
-- 🤝 I’m looking for help with **Data Science**
-
-- 💬 Ask me about **accept all questions, I answer as best I can**
-
-- 📫 How to reach me **rizkofebry@gmail.com**
-
-- ⚡ Fun fact **I earn a lot money from crypto lol**
+### - Hobbies : 
+- ✨ Gaming 
+- ✨ Watching Anime
+- ✨ Watching K-Drama
+- ✨ Learning
 
 # Connect with me:
 <p>
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/60/40/d0/6040d0113d46ecdfe8b176474f465e03.gif">
+<img hight="220" width="350" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/6040d0113d46ecdfe8b176474f465e03.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:rizkofebry@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/gmail.png"/>
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/rizkofebri/">
+  <img align="left" alt="Linkedin" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="https://steamcommunity.com/id/rizkofebri/">
+  <img align="left" alt="Steam" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/steam-logo.png" />
 </a>
 </p>
 <br>
