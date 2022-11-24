@@ -31,15 +31,15 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:rizkofebry@gmail.com">
- <img align="left" alt="Gmail" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/gmail.png"/>
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/rizkofebri/">
+<a href="https://www.linkedin.com/in/rizkofebri/" target="__blank">
   <img align="left" alt="Linkedin" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://steamcommunity.com/id/rizkofebri/">
+<a href="https://steamcommunity.com/id/rizkofebri/" target="__blank">
   <img align="left" alt="Steam" width="50" hight="50" src="https://github.com/rizko-d/rizko-d/blob/main/assets/steam-logo.png" />
 </a>
 </p>
