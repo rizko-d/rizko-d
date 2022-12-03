@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px">, I'm Rizko❤</h1>
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, I'm Rizko❤</h1>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
 <h3 align="center">A passionate Data Science, UI/UX designer and Front-End Developer</h3>
 
@@ -109,6 +109,5 @@ and talk or want to game together just ping me 😉.
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rizko-d&theme=rogue"></p><br>
 
 <img src="https://media3.giphy.com/media/YWB6Hi29vA3jG/giphy.gif?cid=ecf05e478k0lritp1jfe6780t61hwh76dbrhx987m1208cra&rid=giphy.gif&ct=g" alt="one piece" width="980">
