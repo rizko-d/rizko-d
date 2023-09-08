@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, I'm Rizko❤</h1>
+<h1 align="center">hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, i'm rizko</h1>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
 <h3 align="center">Pushing boundaries with pixel-perfect designs and flawless code. Creating intuitive user experiences that will leave your mind blown.</h3>
 
