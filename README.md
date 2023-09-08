@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-<img hight="320" width="550" align="right" alt="GIF" src="ttps://github.com/rizko-d/rizko-d/blob/main/assets/a49206bbd492cf1707526498f8bf1075.gif](https://pin.it/5gxhDUf">
+<img hight="320" width="550" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/a49206bbd492cf1707526498f8bf1075.gif">
 
 
 ### - Learning :
