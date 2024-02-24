@@ -16,7 +16,6 @@
 - ✨ Data Science
 - ✨ UI/UX Designer
 - ✨ Front-End Developer
-- ✨ Cyber Security
 
 ### - Hobbies : 
 - ✨ Gaming 
