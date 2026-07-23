@@ -31,7 +31,7 @@ fields:
   blue_team:
     - Detection Engineering (Sigma / YARA)
     - Threat hunting & IOC enrichment
-    - SIEM correlation (Splunk, Elastic)
+    - SIEM correlation (Sentinel, Wazuh)
     - Incident response playbook development
 
 currently_building:
@@ -78,9 +78,8 @@ currently_building:
 <p align="left">
   <img src="https://img.shields.io/badge/-Sigma-FF6600?style=flat"/>
   <img src="https://img.shields.io/badge/-YARA-00CC00?style=flat"/>
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Elastic-00BFB3?style=flat&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Wazuh-1AAB8C?style=flat"/>
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Wazuh-1AAB8C?style=flat&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Velociraptor-005A9C?style=flat"/>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Falco-FFA500?style=flat"/>
