@@ -131,25 +131,24 @@ currently_building:
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-### 🗂️ Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizko-d&theme=tokyonight" alt="rizko-d profile" />
-</p>
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizko-d&theme=tokyonight" alt="rizko-d stats" />
+      <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rizko-d&show_icons=true&theme=tokyonight&locale=en" alt="rizko-d stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizko-d&theme=tokyonight" alt="rizko-d languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizko-d&theme=tokyonight" alt="rizko-d commit lang" />
+      <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=rizko-d&layout=compact&theme=tokyonight&langs_count=8" alt="rizko-d top langs" />
     </td>
   </tr>
 </table>
+
+### 🗂️ Language Breakdown
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=rizko-d&layout=pie&theme=tokyonight&langs_count=10" alt="rizko-d language pie" />
+</p>
 
 ### 📈 Contribution Activity
 
