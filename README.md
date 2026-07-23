@@ -151,6 +151,12 @@ currently_building:
   </tr>
 </table>
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizko-d&theme=tokyonight&hide_border=true&area=true" alt="rizko-d activity graph" width="95%"/>
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
