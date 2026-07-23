@@ -5,7 +5,7 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">
     , i'm rizko
   </h1>
-  <h3>⚔️ Red Team Mindset · 🛡️ Blue Team Craft · 🔧 Python Tooling ⚔️</h3>
+  <h3>🔍 Pentest · 🛡️ Blue Team · 🔧 Python Tooling 🔍</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=rizko-d&label=Profile%20views&color=00e676&style=flat" alt="rizko-d" />
     <a href="https://twitter.com/rqzko" target="blank">
@@ -23,9 +23,9 @@ languages: [Bahasa Indonesia, English]
 
 fields:
   red_team:
-    - Recon & OSINT automation
-    - Adversary simulation
-    - C2 infrastructure (Sliver, Havoc)
+    - Penetration Testing (Web & Network)
+    - Vulnerability Assessment & Management
+    - Reconnaissance & OSINT automation
     - Exploit development & POC drafting
 
   blue_team:
@@ -35,9 +35,9 @@ fields:
     - Incident response playbook development
 
 currently_building:
-  - Zero-dependency Python CLI recon tools
+  - Zero-dependency Python CLI pentest tools
   - Sigma rule suites for EDR/SIEM platforms
-  - Automated threat intel pipelines
+  - Automated recon & vulnerability assessment pipelines
 ```
 
 <br>
@@ -47,7 +47,7 @@ currently_building:
 <img hight="320" width="550" align="right" alt="GIF" src="https://github.com/rizko-d/rizko-d/blob/main/assets/kid.gif.gif">
 
 ### Learning
-- ✨ Offensive Security & Adversary Emulation
+- ✨ Penetration Testing & Vulnerability Assessment
 - ✨ Detection-as-Code (Sigma, YARA, KQL)
 - ✨ Threat Intelligence & CTI Pipelines
 - ✨ Malware Analysis & Reverse Engineering
@@ -67,9 +67,9 @@ currently_building:
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Metasploit-2C2C2C?style=flat&logo=metasploit&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Nmap-00416A?style=flat"/>
-  <img src="https://img.shields.io/badge/-BloodHound-8B0000?style=flat"/>
-  <img src="https://img.shields.io/badge/-NetExec-7B2D8E?style=flat"/>
-  <img src="https://img.shields.io/badge/-Sliver-00B4D8?style=flat"/>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nessus-00AEEF?style=flat"/>
+  <img src="https://img.shields.io/badge/-sqlmap-FF0000?style=flat"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Scapy-1E90FF?style=flat"/>
 </p>
